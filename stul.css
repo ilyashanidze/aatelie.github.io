@@ -1,0 +1,205 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#adress {
+   
+ color: #fff5f5;
+    padding: 7px;
+    float: right;
+    margin-right: 50px;
+    font-size: 1.3em;
+    font-family: calibri, sans-serif;
+}
+
+body {
+    background-image: url(рисунки/body.png)
+}
+
+
+
+ #style { 
+     margin-left: 0px;
+     margin-top: 0px;
+     width: 100%;
+ height: 466px;
+
+}
+
+ .icon {
+display: inline-block;
+     height: 47px;
+	 width: 50px;
+	 background-image: url(рисунки/sox.png);
+     
+ }
+#rich {
+    
+}
+.sprite {
+    display: inline-block;
+    height: 116px;
+    width: 124px;
+    background-image: url(рисунки/спрайты.png);
+    
+}
+
+.sprite-r { background-position: 0px 0px;}
+.sprite-r:hover{ background-position: 0px -116px;}
+
+.sprite-g { background-position: -124px 0px;}
+.sprite-g:hover{ background-position: -124px -116px;}
+.sprite-s { background-position: -248px 0px;}
+.sprite-s:hover{ background-position: -248px -116px;}
+.sprite-m { background-position: -372px 0px;}
+.sprite-m:hover{ background-position: -372px -116px;}
+.sprite-b { background-position: -496px 0px;}
+.sprite-b:hover{ background-position: -496px -116px;}
+    
+
+
+.icon-vk {  background-position: 0px 0px;}
+.icon.icon-vk:hover{background-position: 0px -47px;}
+ .icon-face {background-position: -50px 0px;}
+     .icon.icon-face:hover{background-position: -50px -47px;}
+.icon-twit {background-position: -100px -0px;}
+.icon-twit:hover{background-position: -100px -47px;}
+.icon-mail {background-position: -150px 0px;}
+.icon-mail:hover{background-position: -150px -47px;}
+
+
+
+
+
+    
+#table {
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    font-size: 1.3em;
+    font-family: calibri, sans-serif;
+   background-color: rgba(0, 255, 255, 0.12);
+    margin: 20px 20px 200px 20px; 
+    float: left;
+}
+
+#table:hover{
+   color: aliceblue;
+}
+
+#video {
+    width: 650px;
+    float: left;
+    margin: 20px 20px 20px 20px;
+    padding: 20px;
+    font-size: 1.3em;
+    font-family: calibri, sans-serif;
+   background-color: rgba(0, 255, 255, 0.12);     
+}
+
+#prichin {
+    width: 100%;
+    height: 90px;
+text-align: left;
+    padding: 15px;
+    font-size: 1.3em;
+    font-family: calibri, sans-serif;
+   background-color: silver;
+    margin-top: 500px;
+   
+}
+
+
+#vigoda {
+  width: 400px;
+    height: 400px;
+    
+    padding: 20px;
+    font-size: 1.3em;
+    font-family: calibri, sans-serif;
+   background-color: rgba(0, 255, 255, 0.12);
+    margin: 20px 20px 20px 20px; 
+}
+
+
+
+#head {
+    background-color: silver;
+    width: 100%;
+    height: 125px;
+    text-align: center;
+    padding: 7px;
+    margin-top: 70px;
+    
+}
+#page1 {
+    width: 500px;
+    height: 510px;
+    line-height: 30px;
+    margin-left: 300px;
+    background-color: rgba(127, 255, 212, 0.71);
+    padding: 20px;
+    font-size: 18px;
+    font-size: 1.3em;
+    font-family: calibri, sans-serif;
+    float: left;
+}
+
+#prise1 { width: 200px;
+  
+    background-color: #7af09a;
+    float: left;
+      line-height: 30px;
+    padding: 20px;
+     font-size: 20px;
+    font-size: 1.3em;
+    font-family: calibri, sans-serif;
+    padding-top: 48px;
+    text-align: center;
+ margin: 0px 0px 900px 0px;
+    
+}
+
+#page2 {width: 680px;
+  
+    margin-left: 200px;
+    background-color: rgba(100, 206, 245, 0.28);
+    line-height: 30px;
+    padding: 20px;
+     font-size: 18px;
+    font-size: 1.1em;
+    font-family: calibri, sans-serif;
+   float: left;
+  
+}
+
+#prise2 {
+    width: 200px;
+   
+    background-color: rgba(114, 240, 172, 0.37);
+    float: left;
+      line-height: 30px;
+    padding: 20px;
+     font-size: 18px;
+    font-size: 1.1em;
+    font-family: calibri, sans-serif;
+    padding-top: 80px;
+    text-align: center;
+ margin: 0px 0px 880px 0;
+   
+  
+}
+
+
+
+#public {
+   text-align:center;
+ margin: 90px 0px 0px 0px;
+    background-image: url(рисунки/public.png);
+    padding: 15px;
+     
+}
+
+    
